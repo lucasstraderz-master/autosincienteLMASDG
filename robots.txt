@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lucasstraderz-master.github.io/autosincienteLMASDG/sitemap.xml
